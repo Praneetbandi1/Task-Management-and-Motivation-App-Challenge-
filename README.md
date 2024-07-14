@@ -1,1 +1,3 @@
 # Task-Management-and-Motivation-App-Challenge-
+
+This project is about creating an application that allows users to manage specific tasks.  There are four components in total that show the rendering of the application, as well as displaying the current task and a reusable component that displays the text with styling. The tasks module has properties like id,name and iscompleted. CSS is used to show the difference between text and non text styles.
