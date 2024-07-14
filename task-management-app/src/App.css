@@ -1,5 +1,19 @@
+
 .App {
   text-align: center;
+}
+
+.heading-title{
+    font-family: serif;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+.message-title{
+    color: blue;
+    text-align: center;
+    font-style: italic;
 }
 
 .App-logo {
